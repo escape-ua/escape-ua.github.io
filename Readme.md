@@ -6,3 +6,8 @@
 ```
 bundle exec jekyll serve
 ```
+
+# Another links
+
+## theme:
+https://github.com/jekyll/minima/tree/2.5-stable/_layouts
