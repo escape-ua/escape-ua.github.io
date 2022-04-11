@@ -22,9 +22,9 @@ title: Escape from UA
 #email: noemail
 description: >- # this means to ignore newlines until "baseurl:"
   Тут будет собираться информация касательно пересечения кордона украины мужчинамы призывного возраста
-domain: superblind.github.io
-url: https://superblind.github.io
-baseurl: /ua # the subpath of your site, e.g. /blog
+domain: escape-ua.github.io
+url: https://escape-ua.github.io
+baseurl: / # the subpath of your site, e.g. /blog
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
