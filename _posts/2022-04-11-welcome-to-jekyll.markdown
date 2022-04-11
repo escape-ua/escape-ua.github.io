@@ -19,6 +19,12 @@ categories: crossborder-laws
 [https://itd.rada.gov.ua/billInfo/Bills/Card/39240](https://itd.rada.gov.ua/billInfo/Bills/Card/39240)
 
 
+### * 7272 Проект Закону про внесення змін до статті 23 Закону України "Про мобілізаційну підготовку та мобілізацію" щодо відстрочки від призову на військову службу під час мобілізації деяких категорій громадян
+
+[https://itd.rada.gov.ua/billInfo/Bills/Card/39408](https://itd.rada.gov.ua/billInfo/Bills/Card/39408)
+
+(пока нет текста закона)
+
 ## Діючі закони
 
 ### * Про оборону України акон України від 06.12.1991 № 1932-XII
