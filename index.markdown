@@ -5,6 +5,8 @@
 layout: default
 ---
 
+[Відповідальність за незаконний перетин кордону під час мобілізації](https://telegra.ph/Vidpovidalnist-za-nezakonnij-peretin-kordonu-pid-chas-mobilizacii-04-03)
+
 {%- assign default_paths = site.pages | map: "path" -%}
 {%- assign page_paths = site.header_pages | default: default_paths -%}
 {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
