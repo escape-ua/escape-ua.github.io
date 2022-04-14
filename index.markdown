@@ -6,6 +6,7 @@ layout: default
 ---
 
 [Відповідальність за незаконний перетин кордону під час мобілізації](https://telegra.ph/Vidpovidalnist-za-nezakonnij-peretin-kordonu-pid-chas-mobilizacii-04-03)
+
 [Перелік документів, які є підставою для перетинання державного кордону]({{ site.baseurl }}/files/perelic_doc.pdf)
 
 
