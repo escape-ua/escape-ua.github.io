@@ -49,5 +49,6 @@ inHeader: true
 ### Канал Легиона
 
 [https://t.me/+wYBfUEyB7FM1MTZl](https://t.me/+wYBfUEyB7FM1MTZl)
+
 <img width="517" alt="image" src="https://user-images.githubusercontent.com/103417150/163687105-59368163-5344-4211-bd35-0e40460bf0c7.png">
 
