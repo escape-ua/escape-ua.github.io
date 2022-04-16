@@ -62,8 +62,5 @@ inHeader: true
 
 <img width="540" alt="image" src="https://user-images.githubusercontent.com/103417150/163687345-cd2a6406-f527-493e-b40c-573aa4679933.png">
 
-
-<img width="544" alt="image" src="https://user-images.githubusercontent.com/103417150/163675263-4e325f4b-39bc-45ef-98d6-593d0af7979b.png">
-
 Мое мнение: ребята очень похожие на очередных фотошоперов зарубежных доков, скорее всего после предоплаты ваше сотрудничество с ними закончиться 
 
