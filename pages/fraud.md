@@ -30,3 +30,11 @@ inHeader: true
 <img width="543" alt="image" src="https://user-images.githubusercontent.com/103417150/163675218-0a6a3ca9-6bac-4c3a-bdc6-b3ba644c55a5.png">
 
 <img width="544" alt="image" src="https://user-images.githubusercontent.com/103417150/163675263-4e325f4b-39bc-45ef-98d6-593d0af7979b.png">
+
+#### Развод на справку из военкомата о непригодности
+
+<img width="218" alt="image" src="https://user-images.githubusercontent.com/103417150/163686149-82251474-ac17-4f7b-910a-8f4fcea8f3f5.png">
+
+<img width="479" alt="image" src="https://user-images.githubusercontent.com/103417150/163686261-b274c011-297d-4500-b192-fb324aee2c2c.png">
+
+<img width="214" alt="image" src="https://user-images.githubusercontent.com/103417150/163686183-80b4aca0-5159-4e01-8314-38f9980af75b.png">
