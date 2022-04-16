@@ -23,6 +23,13 @@ layout: default
     <a class="page-link" target="blank" href="{{ site.baseurl }}/files/perelic_doc.pdf">Перелік документів, які є підставою для перетинання державного кордону
     </a>
   </li>
+  <li>
+    <a class="page-link" target="blank" href="https://ips.ligazakon.net/document/DG220031?an=2">
+      Винятки щодо обмеження виїзду за межі України
+    </a>
+  </li>
+    
+    
 
     {%- for path in page_paths -%}
       {%- assign my_page = site.pages | where: "path", path | first -%}
