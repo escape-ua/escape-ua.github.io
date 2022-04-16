@@ -26,6 +26,7 @@ inHeader: true
 #### Просят предоплату
 
 (По даному кейсу прямых доказательств нету что это кидок, но по описанию очень похоже на то. Скорее всего вы отдадите 2000грн и на этом все закончиться)
+
 <img width="543" alt="image" src="https://user-images.githubusercontent.com/103417150/163675218-0a6a3ca9-6bac-4c3a-bdc6-b3ba644c55a5.png">
 
 <img width="544" alt="image" src="https://user-images.githubusercontent.com/103417150/163675263-4e325f4b-39bc-45ef-98d6-593d0af7979b.png">
