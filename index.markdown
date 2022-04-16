@@ -33,3 +33,12 @@ layout: default
   </ul>
 </nav>
 
+<h3>Другая информация</h3>
+
+<ul>
+  <li>
+    <a href="https://zakon.rada.gov.ua/laws/show/z0927-20#Text" target="blank">
+      Расшифровка кодов военной специальности
+    </a>
+  </li>
+</ul>
