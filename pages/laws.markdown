@@ -2,6 +2,7 @@
 layout: page
 title: Законы та законопроекты
 permalink: /laws/
+inHeader: true
 ---
 [Документ от Дайнеки "Щодо порядку організації виїзду за кордон на період дії правового режиму воєнного стану"]({{ site.baseurl }}/files/document.pdf)
 
