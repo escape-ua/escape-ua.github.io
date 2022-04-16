@@ -55,15 +55,11 @@ inHeader: true
 
 <img width="517" alt="image" src="https://user-images.githubusercontent.com/103417150/163687105-59368163-5344-4211-bd35-0e40460bf0c7.png">
 
-<img width="576" alt="image" src="https://user-images.githubusercontent.com/103417150/163687280-b4a41d3b-9edc-4cc7-b897-c5bbdae4b3fc.png">
+<img width="448" alt="image" src="https://user-images.githubusercontent.com/103417150/163688937-84bb9e0d-d686-46e3-8590-84fde6249f37.png">
 
-<img width="536" alt="image" src="https://user-images.githubusercontent.com/103417150/163687165-6605798f-6db1-4a9e-aca7-aedd5cdb22fa.png">
+![image](https://user-images.githubusercontent.com/103417150/163688952-0fe7904d-b31c-49b7-a46a-87abc8ce1cdd.png)
 
-<img width="523" alt="image" src="https://user-images.githubusercontent.com/103417150/163687295-e1420ca5-e7c0-407e-a7d1-d7c977c710ac.png">
-
-<img width="499" alt="image" src="https://user-images.githubusercontent.com/103417150/163687322-d0b505b9-c2c5-4d85-af56-13ca76c89d92.png">
-
-<img width="540" alt="image" src="https://user-images.githubusercontent.com/103417150/163687345-cd2a6406-f527-493e-b40c-573aa4679933.png">
+![image](https://user-images.githubusercontent.com/103417150/163688974-676da8ab-84dc-4127-b7b1-97166d1a1159.png)
 
 Мое мнение: ребята очень похожие на очередных фотошоперов зарубежных доков, скорее всего после предоплаты ваше сотрудничество с ними закончиться 
 
