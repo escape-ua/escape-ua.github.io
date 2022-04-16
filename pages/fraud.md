@@ -41,6 +41,7 @@ inHeader: true
 
 <img width="512" alt="image" src="https://user-images.githubusercontent.com/103417150/163686321-92952a50-bd81-4adf-a864-8523ca846bd0.png">
 
-##### Еще один
+**Еще один**
+
 ![image](https://user-images.githubusercontent.com/103417150/163686390-06d67ca1-051c-4a4d-9598-f7cd42302502.png)
 
