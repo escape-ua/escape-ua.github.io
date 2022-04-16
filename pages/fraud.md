@@ -18,3 +18,7 @@ inHeader: true
 <img width="548" alt="image" src="https://user-images.githubusercontent.com/103417150/163672071-3b866482-2fe3-4715-a2e5-fb18ca3708e1.png">
 
 <img width="532" alt="image" src="https://user-images.githubusercontent.com/103417150/163672019-4e086e0d-e17e-4317-9597-d220e5e8db3d.png">
+
+#### Еще один пример
+
+<img width="569" alt="image" src="https://user-images.githubusercontent.com/103417150/163674299-03d5bc10-52fd-489f-ada5-d47c7571f7f0.png">
