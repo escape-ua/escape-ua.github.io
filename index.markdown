@@ -14,12 +14,11 @@ layout: default
     <a class="page-link" target="blank" href="https://telegra.ph/Vidpovidalnist-za-nezakonnij-peretin-kordonu-pid-chas-mobilizacii-04-03">Відповідальність за незаконний перетин кордону під час мобілізації
     </a>
   </li>
-   
-    <li>
+  <li>
     <a class="page-link" target="blank" href="https://dpsu.gov.ua/ua/news/uryad-vnis-zmini-do-pravil-peretinannya-derzhavnogo-kordonu-gromadyanami-ukraini/">
       Правил перетинання державного кордону (dpsu.gov.ua)
     </a>
-  </li>
+   </li>
    <li>
     <a class="page-link" target="blank" href="{{ site.baseurl }}/files/perelic_doc.pdf">Перелік документів, які є підставою для перетинання державного кордону
     </a>
