@@ -48,4 +48,9 @@ layout: default
       Расшифровка кодов военной специальности
     </a>
   </li>
+  <li>
+    <a href="https://tetchange.com/?cur_from=CashUSD&cur_to=USDT" target="blank">
+      Обмен USD наличные в USDT
+    </a>
+  </li>
 </ul>
