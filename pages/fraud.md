@@ -39,8 +39,7 @@ inHeader: true
 таким как на банковской карте
 
 пример реального студенческого (присмотритесь внимательно)
-![image](https://user-images.githubusercontent.com/103417150/163854834-44536c63-4324-408d-8f4d-0edb2006f22a.png)
-
+<img width="543" alt="image" src="https://user-images.githubusercontent.com/103417150/163854834-44536c63-4324-408d-8f4d-0edb2006f22a.png">
 
 #### Просят предоплату
 
