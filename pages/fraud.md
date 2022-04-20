@@ -87,3 +87,12 @@ inHeader: true
 
 <img width="534" alt="image" src="https://user-images.githubusercontent.com/103417150/163688094-507e9a0b-dc70-45b7-9545-c5cffac10d3f.png">
 
+
+### Волонтерство
+
+#### Вымогательство, взятие на понт
+(телега @vit_dk) кидало, предлагает пересечь волонтером без предоплаты, потом шантажирует.
+чувак просил паспорт а потом деньги вымогал
+
+![image](https://user-images.githubusercontent.com/103417150/164251337-b018a9b9-b893-4cfc-a05f-bac6521ef13c.png)
+
